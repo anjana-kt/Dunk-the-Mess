@@ -6,7 +6,8 @@ Make a trash bin to "smart bin"
 Initially , we were quite uncertain about what to develop that replicated the fun elements of basketball.
 Later, we thought to ourselves why not associate the fun of basketball for the greater good of the planet.<br>
 The massive amount of litter produced everyday in public places , it's subsequent consequences as well as the lack of effort from each of us inspired us to  create **Dunk the mess**, that encourages people to dispose their litter more efficiently by making the process enjoyable and rewarding.
-
+<br>
+![problem](https://img.resized.co/newstalk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLnJhZGlvY21zLm5ldFxcXC91cGxvYWRzXFxcLzIwMjFcXFwvMDRcXFwvMTkxNTE1MjVcXFwvOTAzNzU2ODYuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo5MDAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5uZXdzdGFsay5jb21cXFwvaW1hZ2VzXFxcL2RlZmF1bHRfbm9faW1hZ2UucG5nXCJ9IiwiaGFzaCI6IjY1YTQyY2UzMzM1MTdlNjU1YjkzYTJiYWQ3YjE1ZTZjYjMxODYwZTUifQ==/90375686.jpg)
 ## What it does??
 
 **Dunk the Mess** is a low cost device that can be used to upgrade a garbage bin. <br> It can be  easily attached on top of a normal bin to upgrade it into a smart bin.
