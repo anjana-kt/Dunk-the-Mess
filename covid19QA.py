@@ -23,4 +23,6 @@ with open('dataset.csv','r') as csvfile:
 for row in rows[i:i+1]:
     for col in row:
         print("%10s"%col)
+        engine.say(col)
+        engine.runAndWait()
         break
