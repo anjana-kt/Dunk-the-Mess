@@ -1,6 +1,7 @@
 import pyttsx3
 
 high_score = 50.0
+score=0
 
 engine = pyttsx3.init()
 voices = engine.getProperty('voices')
@@ -21,7 +22,7 @@ def notHighscore():
     engine.runAndWait()
 
 arduino_input = int(input())
-Distance = int(input())
+Distance = float(input())
 score = round(Distance,2)
 
 while arduino_input == 1:
@@ -32,6 +33,6 @@ while arduino_input == 1:
 	    notHighscore()
 
     arduino_input = int(input())
-    Distance = int(input())
+    Distance = float(input())
     score = round(Distance,2)
 
